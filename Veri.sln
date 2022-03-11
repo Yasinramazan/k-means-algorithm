@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veri", "Veri\Veri.csproj", "{5815BAB9-223C-433A-ACDB-EF9881F90C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriTabani", "VeriTabani\VeriTabani.csproj", "{A578F8AC-571C-489A-9653-E4A85644F4CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5815BAB9-223C-433A-ACDB-EF9881F90C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5815BAB9-223C-433A-ACDB-EF9881F90C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5815BAB9-223C-433A-ACDB-EF9881F90C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5815BAB9-223C-433A-ACDB-EF9881F90C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A578F8AC-571C-489A-9653-E4A85644F4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A578F8AC-571C-489A-9653-E4A85644F4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A578F8AC-571C-489A-9653-E4A85644F4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A578F8AC-571C-489A-9653-E4A85644F4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13C2A8F0-9B52-47A8-B624-BD4CD550F753}
+	EndGlobalSection
+EndGlobal
